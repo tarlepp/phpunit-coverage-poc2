@@ -6,3 +6,5 @@ Simple POC for https://github.com/sebastianbergmann/php-code-coverage/issues/620
 2) run `composer install`
 2) run `./vendor/bin/phpunit`
 3) Open `build\report\index.html`
+
+![screenshot](screenshot.png)
